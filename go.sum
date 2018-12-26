@@ -1,0 +1,6 @@
+github.com/puneetdev0509/event v0.0.0-20181226170504-5272a7370841 h1:8PZ6zAN859ILKpqGRCb0/bZOAdl/3B5ortbeDVeVAFg=
+github.com/puneetdev0509/event v0.0.0-20181226170504-5272a7370841/go.mod h1:8L/HRpu01qKTdJsx2kmttKocMULNMk9+qWUR+jnepl8=
+github.com/puneetdev0509/logger v0.0.1 h1:dDdSrZgcs12wGWl4HLs5mfbU4GC3OLbUgeYeKS+eHNk=
+github.com/puneetdev0509/logger v0.0.1/go.mod h1:CV2sEnKvrlXNcspXRdO+Mg4TgjK3ulLOPJY6kt9c7B8=
+golang.org/x/net v0.0.0-20181220203305-927f97764cc3 h1:eH6Eip3UpmR+yM/qI9Ijluzb1bNv/cAU/n+6l8tRSis=
+golang.org/x/net v0.0.0-20181220203305-927f97764cc3/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
